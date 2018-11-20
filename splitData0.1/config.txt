@@ -1,0 +1,3 @@
+manData=mann.txt
+womanData=kvinne.txt
+lastNameData=etternavn.txt

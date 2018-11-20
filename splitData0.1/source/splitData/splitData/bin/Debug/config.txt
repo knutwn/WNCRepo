@@ -1,0 +1,3 @@
+manData=C:\Users\IEUser\datafiles\navnelister\mann.txt
+womanData=C:\Users\IEUser\datafiles\navnelister\kvinne.txt
+lastNameData=C:\Users\IEUser\datafiles\navnelister\etternavn.txt

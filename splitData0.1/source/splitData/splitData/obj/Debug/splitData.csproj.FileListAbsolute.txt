@@ -1,0 +1,7 @@
+c:\users\ieuser\source\repos\splitData\splitData\bin\Debug\splitData.exe.config
+c:\users\ieuser\source\repos\splitData\splitData\bin\Debug\splitData.exe
+c:\users\ieuser\source\repos\splitData\splitData\bin\Debug\splitData.pdb
+c:\users\ieuser\source\repos\splitData\splitData\obj\Debug\splitData.csprojAssemblyReference.cache
+c:\users\ieuser\source\repos\splitData\splitData\obj\Debug\splitData.csproj.CoreCompileInputs.cache
+c:\users\ieuser\source\repos\splitData\splitData\obj\Debug\splitData.exe
+c:\users\ieuser\source\repos\splitData\splitData\obj\Debug\splitData.pdb
