@@ -1,0 +1,143 @@
+{
+  "fjell" : [
+    {
+    "id"   : "1",
+    "navn" : "Galhøpiggen",
+    "hoyde": "2469",
+    "lat"  : "61.636389",
+    "lon"  : "8.3125"
+  },
+  {
+    "id"   : "2",
+    "navn" : "Glittertinden",
+    "hoyde": "2452",
+    "lat" : "61.651111",
+    "lon" : "8.5575"
+  },
+  {
+    "id"   : "3",
+    "navn" : "Store Skagastølstind",
+    "hoyde": "2405",
+    "lat" : "61.461389",
+    "lon" : "7.871944"
+  },
+  {
+    "id"   : "4",
+    "navn" : "Store Styggedalstinden",
+    "hoyde": "2387",
+    "lat"  : "61.46455",
+    "lon"  : "7.902"
+  },
+  {
+    "id"   : "5",
+    "navn" : "Skarstinden",
+    "hoyde": "2373",
+    "lat"  : "61.633333",
+    "lon"  : "8.265278"
+  },
+  {
+    "id"   : "6",
+    "navn" : "Veslpiggen",
+    "hoyde": "2369",
+    "lat"  : "61.640833",
+    "lon"  : "8.306389"
+  },
+  {
+    "id"   : "7",
+    "navn" : "Surtningssue",
+    "hoyde": "2368",
+    "lat"  : "61.534167",
+    "lon"  : "8.5725"
+  },
+  {
+    "id"   : "8",
+    "navn" : "Store Memurutinden",
+    "hoyde": "2366",
+    "lat"  : "61.56721",
+    "lon"  : "8.47767"
+  },
+  {
+    "id"   : "9",
+    "navn" : "Gjertvasstind",
+    "hoyde": "2351",
+    "lat"  : "61.464722",
+    "lon"  : "7.911111"
+  },
+  {
+    "id"   : "10",
+    "navn" : "Sentraltind",
+    "hoyde": "2348",
+    "lat"  : "61.463611",
+    "lon"  : "7.8825"
+  },
+  {
+    "id"   : "11",
+    "navn" : "Store Hellstugutinden",
+    "hoyde": "2345",
+    "lat"  : "61.544381",
+    "lon"  : "8.428056"
+  },
+  {
+    "id"   : "12",
+    "navn" : "Storjuvtinden",
+    "hoyde": "2344",
+    "lat"  : "61.630278",
+    "lon"  : "8.293611"
+  },
+  {
+    "id"   : "13",
+    "navn" : "Knutsholstinden",
+    "hoyde": "2341",
+    "lat"  : "61.42432",
+    "lon"  : "8.56213"
+  },
+  {
+    "id"   : "14",
+    "navn" : "Vetle Skagastølstind",
+    "hoyde": "2340",
+    "lat"  : "61.464444",
+    "lon"  : "7.874167"
+  },
+  {
+    "id"   : "15",
+    "navn" : "Midtre Hellstugutinden",
+    "hoyde": "2339",
+    "lat"  : "61.551667",
+    "lon"  : "8.424444"
+  },
+  {
+    "id"   : "16",
+    "navn" : "Tjønnholstinden",
+    "hoyde": "2331",
+    "lat"  : "61.44471",
+    "lon"  : "8.64604"
+  },
+  {
+    "id"   : "17",
+    "navn" : "Leirhøe",
+    "hoyde": "2330",
+    "lat"  : "61.591111",
+    "lon"  : "8.466944"
+  },
+  {
+    "id"   : "18",
+    "navn" : "Bukkehøe",
+    "hoyde": "2314",
+    "lat"  : "61.6042",
+    "lon"  : "8.266"
+  },
+  {
+    "id"   : "19",
+    "navn" : "Store Tverråtinden",
+    "hoyde": "2309",
+    "lat"  : "61.615283",
+    "lon"  : "8.301944"
+  },
+  {
+    "id"   : "20",
+    "navn" : "Midtre Tverråtinden",
+    "hoyde": "2301",
+    "lat"  : "61.6145",
+    "lon"  : "8.3154"
+  }]
+}

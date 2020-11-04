@@ -1,0 +1,9 @@
+FROM node:latest
+RUN mkdir -p /weather
+WORKDIR /weather
+COPY package.json /weather
+RUN npm install
+ADD src /weather/src
+ADD public /weather/public
+EXPOSE 3000
+CMD ["npm","start"]
