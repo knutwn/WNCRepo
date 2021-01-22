@@ -1,8 +1,12 @@
 package no.wangnilsen.vo;
 
+
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
+/**
+ * Matrett
+ */
 @Entity
 public class Matrett {
 
@@ -11,9 +15,17 @@ public class Matrett {
     private String navn;
     private String url;
 
+    /**
+     * Matrett contructor
+     */
     public Matrett() {}
 
-    public Matrett(int id, String navn,String url) {
+    /**
+     * @param id - Id til matrett
+     * @param navn - Navnet på matrett
+     * @param url - url til nettsted
+     */
+    public Matrett(final int id, final String navn, final String url) {
         this.id = id;
         this.navn = navn;
         this.url = url;
@@ -22,7 +34,7 @@ public class Matrett {
 
     public int getId() { return id; }
 
-    public void setId(int id) {
+    public void setId(final int id) {
         this.id = id;
     }
 
@@ -30,7 +42,7 @@ public class Matrett {
         return navn;
     }
 
-    public void setNavn(String navn) {
+    public void setNavn(final String navn) {
         this.navn = navn;
     }
 
@@ -38,7 +50,7 @@ public class Matrett {
         return url;
     }
 
-    public void setUrl(String url) {
+    public void setUrl(final String url) {
         this.url = url;
     }
 }
